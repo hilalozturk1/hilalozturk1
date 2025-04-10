@@ -20,6 +20,7 @@ Explore more about my professional journey on my personal website: [https://abou
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Web3.js](https://img.shields.io/badge/-Web3.js-333333?style=flat&logo=javascript)
+![Sass](https://img.shields.io/badge/-Agile-333333?style=flat&logo=sass)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
