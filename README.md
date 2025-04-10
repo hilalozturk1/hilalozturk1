@@ -27,13 +27,6 @@ Explore more about my professional journey on my personal website: [https://abou
 
 ---
 
-## 📊 GitHub Stats
-
-![Hilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilalozturk1&show_icons=false&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalozturk1&layout=compact&theme=radical)
-
----
-
 ## Experience
 
 -   **Full-stack Developer @ Ziyuno (May 2023 - Mar 2024)** Istanbul based📍
